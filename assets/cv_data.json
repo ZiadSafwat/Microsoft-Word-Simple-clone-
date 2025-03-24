@@ -1,0 +1,197 @@
+{
+  "contactInformation": {
+    "fullName": {
+      "value": "John Doe",
+      "isBold": "yes",
+      "color": "#000000",
+      "font": 16,
+    "componentPlaceInX":122,     
+    "componentPlaceInY":52,     
+    "componentHeight":62,
+    "componentWidth":350  
+    },
+    "phoneNumber": {
+      "value": "+1234567890",
+      "isBold": "no",
+      "color": "#000000",
+      "font": 14,
+    "componentPlaceInX":122,     
+    "componentPlaceInY":123,     
+    "componentHeight":34,
+    "componentWidth":350  
+    },
+    "email": {
+      "value": "johndoe@example.com",
+      "isBold": "no",
+      "color": "#000000",
+      "font": 14,
+    "componentPlaceInX":122,     
+    "componentPlaceInY":123,     
+    "componentHeight":34,
+    "componentWidth":350  
+    },
+    "linkedin": {
+      "value": "https://linkedin.com/in/johndoe",
+      "isBold": "no",
+      "color": "#0000FF",
+      "font": 14,
+    "componentPlaceInX":122,     
+    "componentPlaceInY":123,     
+    "componentHeight":34,
+    "componentWidth":350  
+    },
+    "address": {
+      "value": "123 Main Street, City, Country",
+      "isBold": "no",
+      "color": "#000000",
+      "font": 14,
+    "componentPlaceInX":122,     
+    "componentPlaceInY":123,     
+    "componentHeight":34,
+    "componentWidth":350  
+    }
+  },
+  "professionalSummary": {
+    "value": "Experienced software developer with a passion for building user-centric applications and a track record of delivering scalable solutions.",
+    "isBold": "no",
+    "color": "#333333",
+    "font": 12,
+    "componentPlaceInX": 50,
+    "componentPlaceInY": 700,
+    "componentHeight": 60,
+    "componentWidth": 500
+  },
+  "workExperience": [
+    {
+      "jobTitle": {
+        "value": "Senior Software Engineer",
+        "isBold": "yes",
+        "color": "#000000",
+        "font": 14,
+        "componentPlaceInX": 50,
+        "componentPlaceInY": 630,
+        "componentHeight": 20,
+        "componentWidth": 200
+      },
+      "company": {
+        "value": "Tech Solutions Inc.",
+        "isBold": "no",
+        "color": "#555555",
+        "font": 12,
+        "componentPlaceInX": 260,
+        "componentPlaceInY": 630,
+        "componentHeight": 20,
+        "componentWidth": 200
+      },
+      "location": {
+        "value": "City, Country",
+        "isBold": "no",
+        "color": "#555555",
+        "font": 12,
+        "componentPlaceInX": 460,
+        "componentPlaceInY": 630,
+        "componentHeight": 20,
+        "componentWidth": 100
+      },
+      "employmentDates": {
+        "start": {
+          "value": "2020-01",
+          "isBold": "no",
+          "color": "#555555",
+          "font": 12,
+          "componentPlaceInX": 570,
+          "componentPlaceInY": 630,
+          "componentHeight": 20,
+          "componentWidth": 50
+        },
+        "end": {
+          "value": "2023-11",
+          "isBold": "no",
+          "color": "#555555",
+          "font": 12,
+          "componentPlaceInX": 630,
+          "componentPlaceInY": 630,
+          "componentHeight": 20,
+          "componentWidth": 50
+        }
+      },
+      "responsibilities": [
+        {
+          "value": "Developed scalable web applications, increasing user engagement by 30%.",
+          "isBold": "no",
+          "color": "#000000",
+          "font": 12,
+          "componentPlaceInX": 70,
+          "componentPlaceInY": 600,
+          "componentHeight": 20,
+          "componentWidth": 500
+        },
+        {
+          "value": "Led a team of 5 engineers in Agile sprints to deliver projects on time.",
+          "isBold": "no",
+          "color": "#000000",
+          "font": 12,
+          "componentPlaceInX": 70,
+          "componentPlaceInY": 580,
+          "componentHeight": 20,
+          "componentWidth": 500
+        },
+        {
+          "value": "Implemented CI/CD pipelines, reducing deployment time by 50%.",
+          "isBold": "no",
+          "color": "#000000",
+          "font": 12,
+          "componentPlaceInX": 70,
+          "componentPlaceInY": 560,
+          "componentHeight": 20,
+          "componentWidth": 500
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": {
+        "value": "Bachelor of Science in Computer Science",
+        "isBold": "yes",
+        "color": "#000000",
+        "font": 14,
+        "componentPlaceInX": 50,
+        "componentPlaceInY": 500,
+        "componentHeight": 20,
+        "componentWidth": 300
+      },
+      "institution": {
+        "value": "University of Example",
+        "isBold": "no",
+        "color": "#555555",
+        "font": 12,
+        "componentPlaceInX": 260,
+        "componentPlaceInY": 500,
+        "componentHeight": 20,
+        "componentWidth": 300
+      },
+      "location": {
+        "value": "City, Country",
+        "isBold": "no",
+        "color": "#555555",
+        "font": 12,
+        "componentPlaceInX": 460,
+        "componentPlaceInY": 500,
+        "componentHeight": 20,
+        "componentWidth": 100
+      },
+      "graduationDate": {
+        "value": "2017-05",
+        "isBold": "no",
+        "color": "#555555",
+        "font": 12,
+        "componentPlaceInX": 570,
+        "componentPlaceInY": 500,
+        "componentHeight": 20,
+        "componentWidth": 100
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="phone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.23162177"
+     inkscape:cx="569.89461"
+     inkscape:cy="477.07087"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect238"
+       is_visible="true"
+       lpeversion="1" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5057">
+      <g
+         id="g5063">
+        <g
+           id="g5061"
+           transform="matrix(0.68800051,0,0,-0.68800051,-993.50198,597.10368)">
+          <path
+             d="M 0,3000 H 3000 V 0 H 0 Z"
+             id="path5059" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0d38a8;stroke-width:5.58501;stroke-linecap:round;stroke-linejoin:round"
+       d="m -126.06809,249.60754 c -12.53244,6.26621 -7.16138,3.58067 -16.11423,8.05713"
+       id="path513" />
+    <path
+       id="path2801"
+       style="fill:#000000;stroke-width:6.09657;stroke-linecap:round;stroke-linejoin:round"
+       d="M 105,3.450643 A 101.54945,101.54945 0 0 0 3.4506415,105 101.54945,101.54945 0 0 0 105,206.54936 101.54945,101.54945 0 0 0 206.54936,105 101.54945,101.54945 0 0 0 105,3.450643 Z M 65.244801,31.172465 c 3.31877,0.190939 6.52851,2.379444 9.20926,6.217709 4.78917,6.857983 9.30361,13.978854 13.80794,21.094836 2.71072,4.282111 2.5367,8.3867 -0.78496,12.428699 -4.758899,5.789519 -9.27982,11.841725 -14.47354,18.516699 12.16315,20.518222 27.833839,38.654232 45.192079,52.435562 5.55835,-5.64986 10.75142,-10.82977 15.84606,-16.137 4.05575,-4.2257 7.16315,-4.64053 11.5409,-0.90744 5.85487,4.99281 11.68146,10.03865 17.38498,15.26057 6.32203,5.78814 7.67588,14.01781 2.23242,21.0354 -13.56116,17.48277 -20.5171,21.72379 -38.42918,14.08287 -21.12503,-9.01142 -37.867879,-25.51111 -53.151789,-44.11256 -10.43558,-12.70116 -19.50616,-26.59751 -26.03665,-42.52815 -1.40627,-3.431742 -2.66399,-6.966644 -3.74965,-10.551811 -6.0255,-19.899707 -0.61291,-29.685996 13.6679,-43.491402 2.51606,-2.432681 5.16297,-3.49249 7.74423,-3.343982 z" />
+  </g>
+</svg>
