@@ -8,9 +8,9 @@ A **Flutter-powered** app that lets users create and customize **text documents*
 ✅ **Export to PDF:** Save or share your designs as high-quality **PDF**.  
 ✅ **Smooth UI & Performance:** Optimized for **gesture-based interactions**.  
 
-## 📽️ Demo Video  
-📌 [Watch the Demo](video.mp4)
 
+## 📽️ Demo Preview  
+![BriefPDF Demo](preview.gif)
 
 ## 🛠️ Technologies Used  
 - **Flutter & Dart**  
@@ -36,7 +36,7 @@ flutter run
 
 ## 📜 License
 This project is licensed under the MIT License.
-## 📩 Contact
-📧 Email: Ziadsafwataraby@gmail.com
-
+## 📩 Contact  
+📧 **Email:** [Ziadsafwataraby@gmail.com](mailto:Ziadsafwataraby@gmail.com)  
+🔗 **Website:** [MyWebsite](https://waves.pockethost.io/user-profile/3b5wmxh6tierl5h)  
 🔗 GitHub: @ZiadSafwat
