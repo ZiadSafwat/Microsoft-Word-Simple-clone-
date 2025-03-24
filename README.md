@@ -9,10 +9,8 @@ A **Flutter-powered** app that lets users create and customize **text documents*
 ✅ **Smooth UI & Performance:** Optimized for **gesture-based interactions**.  
 
 ## 📽️ Demo Video  
-  📌    
+📌 [Watch the Demo](video.mp4)
 
-## 📸 Screenshots  
-  📌 
 
 ## 🛠️ Technologies Used  
 - **Flutter & Dart**  
