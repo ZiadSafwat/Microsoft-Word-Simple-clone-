@@ -1,16 +1,45 @@
-# flutter_cv_maker
+# Microsoft-Word-Simple-clone-
+A **Flutter-powered** app that lets users create and customize **text documents** with **rich text formatting**, stickers, backgrounds, and **PDF export**. Think of it as a **simple mini Word processor**!  
 
-A new Flutter app to build cv .
+## ✨ Features  
+✅ **Drag & Drop:** Move text boxes freely on an **A4 canvas**.  
+✅ **Rich Text Editing:** Apply **bold, italic, underline, font size, and colors**.  
+✅ **Custom Backgrounds:** Add images as backgrounds.  
+✅ **Stickers & Elements:** Enhance designs with customizable elements.  
+✅ **Export to PDF:** Save or share your designs as high-quality **PDF**.  
+✅ **Smooth UI & Performance:** Optimized for **gesture-based interactions**.  
 
-## Getting Started
+## 📽️ Demo Video  
+📌 *(Add a link to your demo video here!)*  
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots  
+*(Add some screenshots of your app here!)*  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used  
+- **Flutter & Dart**  
+- **flutter_quill / flutter_rich_text_editor** (for text formatting)  
+- **flutter_pdf** (for PDF export)  
+- **GestureDetector & Stack** (for drag functionality)  
+- **Provider / Riverpod** (for state management)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Installation & Usage  
+1️⃣ Clone this repository:  
+```bash
+git clone https://github.com/ZiadSafwat/Microsoft-Word-Simple-clone-.git
+```
+```bash
+cd Microsoft-Word-Simple-clone-
+```
+```bash
+flutter pub get
+```
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📜 License
+This project is licensed under the MIT License.
+## 📩 Contact
+📧 Email: Ziadsafwataraby@gmail.com
+
+🔗 GitHub: @ZiadSafwat
