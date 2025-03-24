@@ -1,19 +1,18 @@
-# Microsoft-Word-Simple-clone-
+# Simple Microsoft Word clone
 A **Flutter-powered** app that lets users create and customize **text documents** with **rich text formatting**, stickers, backgrounds, and **PDF export**. Think of it as a **simple mini Word processor**!  
 
 ## ✨ Features  
-✅ **Drag & Drop:** Move text boxes freely on an **A4 canvas**.  
-✅ **Rich Text Editing:** Apply **bold, italic, underline, font size, and colors**.  
+✅ **Rich Text Editing:** Apply **bold, italic, underline and colors**.  
 ✅ **Custom Backgrounds:** Add images as backgrounds.  
 ✅ **Stickers & Elements:** Enhance designs with customizable elements.  
 ✅ **Export to PDF:** Save or share your designs as high-quality **PDF**.  
 ✅ **Smooth UI & Performance:** Optimized for **gesture-based interactions**.  
 
 ## 📽️ Demo Video  
-📌 *(Add a link to your demo video here!)*  
+  📌    
 
 ## 📸 Screenshots  
-*(Add some screenshots of your app here!)*  
+  📌 
 
 ## 🛠️ Technologies Used  
 - **Flutter & Dart**  
